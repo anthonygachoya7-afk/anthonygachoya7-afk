@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm YOUR NAME 👋
+# Hi, I'm Anthony Gachoya 👋
 ### Data Science Student · Python Developer · Data Analyst
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Data+Science+Student;Python+%7C+pandas+%7C+Java+%7C+C%2B%2B+%7C+C;Turning+messy+data+into+answers" alt="Typing animation" />
