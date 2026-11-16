@@ -102,6 +102,30 @@ class Anthony:
 
 <div align="center">
 
+---
+
+## `05` — GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anthonygachoya7-afk&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&icon_color=00D4AA" />
+
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=anthonygachoya7-afk&theme=dark&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=58A6FF&currStreakLabel=00D4AA&sideLabels=C9D1D9&dates=8B949E&hide_border=true" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonygachoya7-afk&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anthonygachoya7-afk&bg_color=0D1117&color=00D4AA&line=00D4AA&point=58A6FF&area=true&area_color=00D4AA&hide_border=true&custom_title=Anthony%20Gachoya%20%7C%20Contribution%20Activity" />
+
+</div>
+
+---
+
+
+
 ### Building one project at a time.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=footer" width="100%"/>
